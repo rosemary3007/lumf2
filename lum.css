@@ -1,0 +1,70 @@
+#m1{
+    background-color: rgb(95, 10, 175);
+    color: white;
+    font-size:medium;
+}
+#navbarSupportedContent{
+    color: rgb(15, 5, 61);
+}
+button{
+    background-color: rgb(86, 47, 121);
+    color: white;
+    border-radius: 20PX;
+    padding: 10px;
+    font-size: small;
+}
+#m5{
+    color: rgb(52, 8, 114);
+}
+#m6{
+    color: rgb(127, 60, 215);
+}
+#p1{
+    background-color:white;
+}
+#m4{
+    background-color: white;
+}
+body{
+    background-color: whitesmoke;
+}
+
+#h3{
+    color: rgb(140, 84, 192);
+    text-align: center;
+}
+#n1{
+    background-color: white;
+    width: 1200px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#n2{
+    color: rgb(66, 19, 110);
+}
+#b3{
+    width:1200px;
+    /* background-color: white; */
+    margin-left: 200px;
+
+}
+#bt3{
+    background-color: rgb(38, 3, 71);
+    color: white;
+}
+
+
+#bt2{
+    background-color: rgb(38, 3, 71);
+    color: white;
+}
+
+#bt1{
+    background-color: rgb(38, 3, 71);
+    color: white;
+}
+#b9{
+    width: 130px;
+    height: 40px;
+    margin-left: 670px;
+}
