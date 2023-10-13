@@ -24,28 +24,37 @@ button{
 }
 #m4{
     background-color: white;
+    padding: 20px;
 }
 body{
     background-color: whitesmoke;
+    padding:20px;
 }
 
 #h3{
     color: rgb(140, 84, 192);
     text-align: center;
+    margin-top: 50px;
 }
 #n1{
     background-color: white;
-    width: 1200px;
-    margin-left: 150px;
-    margin-top: 100px;
+    /* width: 100%; */
+    /* margin-left: 150px; */
+    /* margin-top: 100px; */
+    /* width:1200px; */
+    /* margin-left: 150px; */
+    padding: 50px;
+    
 }
 #n2{
     color: rgb(66, 19, 110);
 }
 #b3{
-    width:1200px;
-    /* background-color: white; */
-    margin-left: 200px;
+    
+    background-color: whitesmoke;
+    /* margin-left: 200px; */
+    padding: 100px;
+
 
 }
 #bt3{
@@ -66,5 +75,14 @@ body{
 #b9{
     width: 130px;
     height: 40px;
-    margin-left: 670px;
+    /* margin-left: 670px; */
+    ;
+}
+#p2{
+    background-color: whitesmoke;
+    padding: 100px;
+}
+.mydiv{
+    text-align: center;
+
 }
