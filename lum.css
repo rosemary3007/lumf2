@@ -81,8 +81,20 @@ body{
 #p2{
     background-color: whitesmoke;
     padding: 100px;
+
 }
 .mydiv{
     text-align: center;
 
 }
+#i1{
+    @media screen {orientation: portrait;
+        
+    }
+}
+#bt0{
+    background-color: rgb(38, 3, 71);
+    color: white;
+
+}
+    
